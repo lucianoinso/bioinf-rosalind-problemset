@@ -1,17 +1,20 @@
 # Bioinformatics problem set solutions
-A set of solutions for Bioinformatics problems found on <http://rosalind.info> website, coded in Python
+A set of solutions for Bioinformatics problems found on <http://rosalind.info> website, coded in Python.
+
+My profile: <http://rosalind.info/users/lucianoinso>.
+
 
 ## Directories summary
-DNA: Counting DNA Nucleotides
+DNA: _Counting DNA Nucleotides_
 
-RNA: Transcribing DNA into RNA
+RNA: _Transcribing DNA into RNA_
 
-REVC: Complementing a Strand of DNA
+REVC: _Complementing a Strand of DNA_
 
-GC: Computing GC Content
+GC: _Computing GC Content_
 
-HAMM: Counting Point Mutations
+HAMM: _Counting Point Mutations_
 
-PROT: Translating RNA into Protein
+PROT: _Translating RNA into Protein_
 
-SUBS: Finding a Motif in DNA
+SUBS: _Finding a Motif in DNA_
